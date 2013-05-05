@@ -11,7 +11,7 @@ ESVN_REPO_URI="https://ndiswrapper.svn.sourceforge.net/svnroot/ndiswrapper/trunk
 #ESVN_PROJECT="ndiswrapper"
 
 LICENSE="GPL-2"
-KEYWORDS="amd64 x86"
+KEYWORDS=""
 IUSE="debug usb"
 
 DEPEND="sys-apps/pciutils"
