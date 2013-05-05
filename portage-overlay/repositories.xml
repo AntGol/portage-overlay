@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<repositories version="1.0">
+  <repo priority="50" quality="experimental" status="unofficial">
+    <name>gamerlay</name>
+    <description>Gamers overlay for all various games. Not related with games team.</description>
+    <homepage>http://git.overlays.gentoo.org/gitweb/?p=proj/gamerlay.git</homepage>
+    <owner>
+      <email>mva@mva.name</email>
+      <name>Vadim A. Misbakh-Soloviov</name>
+    </owner>
+    <source type="git">git://git.overlays.gentoo.org/proj/gamerlay.git</source>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/gamerlay.git;a=atom</feed>
+    <feed>http://git.overlays.gentoo.org/gitweb/?p=proj/gamerlay.git;a=rss</feed>
+  </repo>
+</repositories>
